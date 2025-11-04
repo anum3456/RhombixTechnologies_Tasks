@@ -14,6 +14,9 @@ A simple and user-friendly Login and Signup screen designed in Figma as part of 
 ## Tools Used
 - Figma
 
+## Figma Link
+[View Design on Figma]([https://www.figma.com/your-design-link](https://www.figma.com/design/qkOwHB65KrazSlNFKn23JG/Login---SignUp-Screen?node-id=0-1&t=BP6MntLG7YlJQGXi-1))
+
 ## Designer
 Anum Tahzeem  
 UI/UX Designer Intern  
